@@ -1,6 +1,6 @@
 {
-  "name": "TestPoolPolomium,
+  "name": "TestPoolPolomium",
   "description": "The pool in preprod testnet",
-  "ticker": "preprod",
+  "ticker": "test",
   "homepage": "https://github.com/moth70/moth70"
-  }
+}
